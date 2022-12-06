@@ -1,0 +1,44 @@
+{
+    "Cardinal Players": [
+        {
+         "id": 1,
+         "Name": "Nolan Arenado",
+         "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/4/4009314f_mlbam.jpg",
+         "Position": "3rd Base",
+         "2022 Slash": ".293/.358/.533",
+         "Awards": "Golden Glove, Platinum Glove, & Silver Slugger"
+        },
+        {
+         "id":2,
+         "Name": "Paul Goldshmidt",
+         "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/6/6b37a7f2_mlbam.jpg",
+         "Position": "1st Base",
+         "2022 Slash": ".317/.404/.578",
+         "Awards": "MVP & Silver Slugger"
+        },
+        {
+         "id": 3,
+         "Name": "Albert Pujols",
+         "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/e/e14fcab4_mlbam.jpg",
+         "Position": "DH",
+         "2022 Slash": ".238/.298/.437",
+         "Awards": "Comeback Player of the Year"
+        },
+        {
+         "id": 4,
+         "Name": "Yadier Molina",
+         "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/8/8b7c404b_mlbam.jpg",
+         "Position": "Catcher",
+         "2022 Slash": ".232/.274/.336",
+         "Awards": "NA"
+        },
+        {
+         "id": 5,
+         "Name": "Adam Wainwright",
+         "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/6/65b4a397_mlbam.jpg",
+         "Position": "Pitcher",
+         "2022 Stats": "W:11, L:12",
+         "Awards": "NA"
+        }
+    ]
+}
