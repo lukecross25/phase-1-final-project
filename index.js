@@ -14,3 +14,20 @@ document.addEventListener('DOMContentLoaded', function() {
       const card = document.createElement('div');
       card.classList.add('card');
 
+// Insert player data into the card
+card.innerHTML = `
+<img src="${player.imageUrl}" alt="${player.name}">
+<h3>${player.name}</h3>
+<p>Position: ${player.position}</p>
+<p>Stats: ${player.stats}</p>
+<p>Awards: ${player.awards}</p>
+<div>
+  <button class="favorite-button">Vote for Favorite</button>
+  <button class="allStar-button">Vote for 2023 All Star</button>
+</div>
+<div>
+  <p>Vote for Favorite: ${favoriteCount}</p>
+  <p>Vote for 2023 All Star: ${allStarCount}</p>
+</div>
+`;
+
