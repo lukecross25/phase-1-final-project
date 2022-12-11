@@ -51,4 +51,9 @@ card.innerHTML = `
             <p>Vote for 2023 All Star: ${allStarCount}</p>
           `;
         });
-  
+  // Add the card to the container
+  container.appendChild(card);
+});
+});
+
+
