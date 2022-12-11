@@ -6,4 +6,4 @@ The user also has the ability to vote for who is their favorite player.
 
 Go Cardnials!!
 
-https://i.ebayimg.com/images/g/arAAAOSw219ezuih/s-l1600.jpg
+! [cardinals logo](https://i.ebayimg.com/images/g/arAAAOSw219ezuih/s-l1600.jpg)
