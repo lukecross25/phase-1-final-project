@@ -39,4 +39,16 @@ card.innerHTML = `
         card.querySelectorAll('div')[1].innerHTML = `
           <p>Vote for Favorite: ${favoriteCount}</p>
           <p>Vote for 2023 All Star: ${allStarCount}</p>
-
+          `;
+        });
+  
+        const allStarButton = card.querySelector('.allStar-button');
+        allStarButton.addEventListener('click', () => {
+          allStarCount++;
+          // Update the vote count display
+          card.querySelectorAll('div')[1].innerHTML = `
+            <p>Vote for Favorite: ${favoriteCount}</p>
+            <p>Vote for 2023 All Star: ${allStarCount}</p>
+          `;
+        });
+  
