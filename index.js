@@ -31,3 +31,12 @@ card.innerHTML = `
 </div>
 `;
 
+      // Add event listeners for the vote buttons
+      const favoriteButton = card.querySelector('.favorite-button');
+      favoriteButton.addEventListener('click', () => {
+        favoriteCount++;
+        // Update the vote count display
+        card.querySelectorAll('div')[1].innerHTML = `
+          <p>Vote for Favorite: ${favoriteCount}</p>
+          <p>Vote for 2023 All Star: ${allStarCount}</p>
+
