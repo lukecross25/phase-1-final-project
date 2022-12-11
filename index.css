@@ -2,5 +2,10 @@ body {
   background-color: red;
 }
 
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white;
+}
 
 
