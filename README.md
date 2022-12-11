@@ -5,3 +5,5 @@ In this application the user has the ability to vote for their favorite players 
 The user also has the ability to vote for who is their favorite player.
 
 Go Cardnials!!
+
+https://i.ebayimg.com/images/g/arAAAOSw219ezuih/s-l1600.jpg
