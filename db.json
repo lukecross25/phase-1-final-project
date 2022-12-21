@@ -6,7 +6,8 @@
       "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/4/4009314f_mlbam.jpg",
       "position": "3rd Base",
       "stats": ".293/.358/.533",
-      "awards": "Golden Glove, Platinum Glove, & Silver Slugger"
+      "awards": "Golden Glove, Platinum Glove, & Silver Slugger",
+      "BBR link": "https://www.baseball-reference.com/players/a/arenano01.shtml"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/6/6b37a7f2_mlbam.jpg",
       "position": "1st Base",
       "stats": ".317/.404/.578",
-      "awards": "MVP & Silver Slugger"
+      "awards": "MVP & Silver Slugger",
+      "BBR link": "https://www.baseball-reference.com/players/g/goldspa01.shtml"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/e/e14fcab4_mlbam.jpg",
       "Position": "DH",
       "stats": ".238/.298/.437",
-      "awards": "Comeback Player of the Year"
+      "awards": "Comeback Player of the Year",
+      "BBR link": "https://www.baseball-reference.com/players/p/pujolal01.shtml"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/8/8b7c404b_mlbam.jpg",
       "position": "Catcher",
       "stats": ".232/.274/.336",
-      "awards": "NA"
+      "awards": "NA",
+      "BBR link": "https://www.baseball-reference.com/players/m/molinya01.shtml"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "imageUrl": "https://www.baseball-reference.com/req/202209210/images/headshots/6/65b4a397_mlbam.jpg",
       "position": "Pitcher",
       "stats": "W:11, L:12",
-      "awards": "NA"
+      "awards": "NA",
+      "BBRlink": "https://www.baseball-reference.com/players/w/wainwad01.shtml"
     }
   ]
 }
