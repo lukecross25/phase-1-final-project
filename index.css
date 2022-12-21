@@ -21,3 +21,8 @@ body {
   margin-right: auto;
   width: 50%;
 }
+
+.allStar-message {
+   font-weight: bold;
+   color: red;
+}
